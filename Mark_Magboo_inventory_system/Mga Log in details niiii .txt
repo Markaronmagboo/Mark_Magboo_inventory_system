@@ -1,0 +1,20 @@
+_____Login Details___
+
+
+(((pwede raka mag add ug account sa sud mismo sa admin)))
+
+*Admin*
+
+Username: admin
+Password: admin
+
+*Special User pangduha sa admin *
+
+Username: special
+Password: special
+
+*User(Employee) limited ra *
+
+Username: user
+Password: user 
+
